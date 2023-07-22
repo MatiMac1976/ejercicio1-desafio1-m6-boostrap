@@ -1,0 +1,40 @@
+h1 {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 49pt;
+    color: #04146c;
+}
+
+h2 {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 30pt;
+    color: #0a2ff1;
+}
+
+h3 {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 18pt;
+    color: #04146c;
+}
+
+p {
+    font-family: 'Mulish', sans-serif;
+    font-size: 18pt;
+    color: #04146c;
+}
+
+#boton {
+    font-family: 'Mulish', sans-serif;
+    font-size: 18pt;
+    color: #04146c;
+    border: 2px solid #0a2ff1 !important;
+    background-color: transparent;
+    border-radius: 0;
+}
+
+#boton:hover {
+    background-color: #0a2ff1;
+    color: #fff;
+}
